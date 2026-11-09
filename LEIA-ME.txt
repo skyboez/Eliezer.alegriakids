@@ -1,0 +1,3 @@
+Eliezer Alegria Kids — versão pública sem painel administrativo.
+Publique todos os arquivos e a pasta imagens no GitHub Pages.
+IMPORTANTE: exclua também painel.html do repositório GitHub se ele já foi publicado; substituir apenas index.html não remove arquivos antigos.
